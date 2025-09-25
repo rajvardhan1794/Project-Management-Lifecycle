@@ -6,11 +6,9 @@ import ManagerLogin from "./pages/ManagerLogin";
 import ManagerDashboard from "./pages/ManagerDashboard";
 import ManagerProfile from "./pages/ManagerProfile";
 // Manager registration is now handled by Admin Dashboard
-// import ManagerRegistration from "./pages/ManagerRegistration";
 import TeamMemberLogin from "./pages/TeamMemberLogin";
 import TeamMemberDashboard from "./pages/TeamMemberDashboard";
 // Team member registration is now handled by Admin Dashboard
-// import TeamMemberRegistration from "./pages/TeamMemberRegistration";
 import Services from "./pages/Services";
 import Help from "./pages/Help";
 import NotFound from "./pages/NotFound";

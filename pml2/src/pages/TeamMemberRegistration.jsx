@@ -21,17 +21,7 @@
 //   const [submitSuccess, setSubmitSuccess] = useState(false);
 //   const [managers, setManagers] = useState([]);
 
-//   useEffect(() => {
-//     // Sample managers data (in a real app, this would come from an API)
-//     const sampleManagers = [
-//       { id: 1, name: "Sarah Johnson", email: "sarah.johnson@example.com", department: "Development" },
-//       { id: 2, name: "Michael Chen", email: "michael.chen@example.com", department: "Design" },
-//       { id: 3, name: "Emily Rodriguez", email: "emily.rodriguez@example.com", department: "Marketing" },
-//       { id: 4, name: "David Patel", email: "david.patel@example.com", department: "Operations" }
-//     ];
-    
-//     setManagers(sampleManagers);
-//   }, []);
+
 
 //   const handleChange = (e) => {
 //     const { name, value } = e.target;

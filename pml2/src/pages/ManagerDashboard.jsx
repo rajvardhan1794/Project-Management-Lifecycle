@@ -154,28 +154,6 @@ function ManagerDashboard() {
         manager_id: loggedInManagerId
       }));
     }
-
-    // Sample projects data
-    const sampleProjects = [
-      {
-        id: 1,
-        title: "Website Redesign",
-        description: "Redesign company website with modern UI",
-        deadline: "2025-10-15",
-        progress: 65,
-        team: ["John", "Sarah"]
-      },
-      {
-        id: 2,
-        title: "Mobile App Development",
-        description: "Develop a new mobile app for clients",
-        deadline: "2025-11-20",
-        progress: 30,
-        team: ["Mike", "Lisa", "David"]
-      }
-    ];
-    
-    setProjects(sampleProjects);
     
     // Fetch data from database
     fetchTeamMembers();
