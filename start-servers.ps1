@@ -1,3 +1,6 @@
+# This file is used to start both backend and frontend servers in a single line
+# Read the readme.md file and you'll know hot to do it.
+
 $djangoPath = "C:\Users\rajvardhan.chavan_ja\Desktop\PML MAIN\PML 5 (current working) (Final Project)\pml"
 $reactPath = "C:\Users\rajvardhan.chavan_ja\Desktop\PML MAIN\PML 5 (current working) (Final Project)\pml\pml2"
 $pythonExe = "C:/Users/rajvardhan.chavan_ja/AppData/Local/Programs/Python/Python313/python.exe"
