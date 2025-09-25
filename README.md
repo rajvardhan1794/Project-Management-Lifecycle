@@ -35,9 +35,8 @@ A comprehensive project management system built with Django REST Framework backe
 ### Backend
 - **Framework**: Django 5.2
 - **API**: Django REST Framework
-- **Database**: SQLite3 (Development)
-- **Authentication**: Django Authentication System
-
+- **Database**: MYSQL Database
+- 
 ### Frontend
 - **Framework**: React 18.3.1
 - **Build Tool**: Vite 7.1.2
